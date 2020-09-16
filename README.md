@@ -9,7 +9,7 @@
         <img alt="GitHub" src="https://img.shields.io/github/license/chess-centre/architecture?style=flat">
       </a>
   </p>
-  <h1 align="center"> Architecture </h1>
+  <h1 align="center"> 🏗️ Architecture </h1>
 </p>
 <p align="center">
   <h3 align="center"> Provides the technical design documentation reference materials </h3>
@@ -37,6 +37,6 @@ To understand the type of information each route needs to provide, here is the d
 
 ### Contributing
 
-[see here](https://github.com/chess-centre/welcome/blob/master/CONTRIBUTING.md)
+*   [How to contribute](https://github.com/chess-centre/welcome/blob/master/CONTRIBUTING.md)
 
 License: [MIT](LICENSE)
